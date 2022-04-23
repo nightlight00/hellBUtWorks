@@ -1,0 +1,1 @@
+attack_spiral(8, 1, speed, o_bullet_pellet);
